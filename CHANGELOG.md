@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## v0.7 - 12 January 2026
+
+- Supports WOMBAT v0.13.1+ to ensure the latest bug fixes and data updates are available to all users.
+- Supports ORBIT v.1.2.6+ to ensure the latest bug fixes, features, data updates are available to all users.
+- Updates the COWER example for the 2025 reporting cycle.
+- Removes `library/base_2022` in favor of a `libray/base` for base assumptions and scenarios that
+  can be updated annually as needed.
+- A pre-commit workflow is added to be run against PRs into the main and develop branches to ensure
+  code quality checks are passed.
+
 ## v0.6.2 - 1 December 2025
 
 - Pins `jupyter-book` to "<2" to avoid v2 migration issues prior to testing.
