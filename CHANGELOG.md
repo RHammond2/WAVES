@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## Unreleased
+## v0.7 - 12 January 2026
 
 - Supports WOMBAT v0.13.1+ to ensure the latest bug fixes and data updates are available to all users.
 - Supports ORBIT v.1.2.6+ to ensure the latest bug fixes, features, data updates are available to all users.
